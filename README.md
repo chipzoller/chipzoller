@@ -28,6 +28,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Clarity Theme for Hugo Released](https://neonmirrors.net/post/2020-07/clarity-theme-for-hugo-released/)
+- [Antrea: The Ubiquitous CNI](https://neonmirrors.net/post/2020-06/antrea-the-ubiquitous-cni/)
+- [Complete CI/CD for Hugo on AWS with GitHub Actions](https://neonmirrors.net/post/2020-05/cicd-for-hugo-on-aws/)
+- [Getting Started with Tanzu Kubernetes Grid](https://neonmirrors.net/post/2020-04/getting-started-with-tkg/)
+- [Behind the Scenes with Cluster API Provider vSphere](https://neonmirrors.net/post/2020-04/capv-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
