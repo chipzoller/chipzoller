@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Cluster Add-on Bootstrapping: Part 1, TKGI](https://neonmirrors.net/post/2020-11/k8s-cluster-addon-bootstrapping-for-tkgi/)
+- [Kubernetes Cluster Add-On Bootstrapping: Part 2, TKG](https://neonmirrors.net/post/2020-11/k8s-cluster-addon-bootstrapping-for-tkg/)
+- [Kubernetes Cluster Add-On Bootstrapping: Part 1, TKGI](https://neonmirrors.net/post/2020-11/k8s-cluster-addon-bootstrapping-for-tkgi/)
 - [Using Custom Registries with Tanzu Kubernetes Grid](https://neonmirrors.net/post/2020-10/using-custom-registries-with-tkg/)
 - [Deploying Harbor on Photon OS](https://neonmirrors.net/post/2020-10/deploying-harbor-on-photon-os/)
 - [Clarity Theme for Hugo Released](https://neonmirrors.net/post/2020-07/clarity-theme-for-hugo-released/)
-- [Antrea: The Ubiquitous CNI](https://neonmirrors.net/post/2020-06/antrea-the-ubiquitous-cni/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
