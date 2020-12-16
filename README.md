@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Kyverno: Part 3, Generation](https://neonmirrors.net/post/2020-12/exploring-kyverno-part3/)
 - [Exploring Kyverno: Part 2, Mutation](https://neonmirrors.net/post/2020-12/exploring-kyverno-part2/)
 - [Exploring Kyverno: Part 1, Validation](https://neonmirrors.net/post/2020-12/exploring-kyverno-part1/)
 - [Exploring Kyverno: Introduction](https://neonmirrors.net/post/2020-11/exploring-kyverno-intro/)
 - [Kubernetes Cluster Add-On Bootstrapping: Part 2, TKG](https://neonmirrors.net/post/2020-11/k8s-cluster-addon-bootstrapping-for-tkg/)
-- [Kubernetes Cluster Add-On Bootstrapping: Part 1, TKGI](https://neonmirrors.net/post/2020-11/k8s-cluster-addon-bootstrapping-for-tkgi/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
