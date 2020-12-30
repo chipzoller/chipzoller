@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Ask for Help on Slack](https://neonmirrors.net/post/2020-12/how-to-ask-for-help-on-slack/)
 - [Exploring Kyverno: Part 3, Generation](https://neonmirrors.net/post/2020-12/exploring-kyverno-part3/)
 - [Exploring Kyverno: Part 2, Mutation](https://neonmirrors.net/post/2020-12/exploring-kyverno-part2/)
 - [Exploring Kyverno: Part 1, Validation](https://neonmirrors.net/post/2020-12/exploring-kyverno-part1/)
 - [Exploring Kyverno: Introduction](https://neonmirrors.net/post/2020-11/exploring-kyverno-intro/)
-- [Kubernetes Cluster Add-On Bootstrapping: Part 2, TKG](https://neonmirrors.net/post/2020-11/k8s-cluster-addon-bootstrapping-for-tkg/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
