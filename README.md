@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Policy for Kubernetes Custom Resources](https://neonmirrors.net/post/2021-06/policy-k8s-customresources/)
 - [Kubernetes Policy Comparison: OPA/Gatekeeper vs Kyverno](https://neonmirrors.net/post/2021-02/kubernetes-policy-comparison-opa-gatekeeper-vs-kyverno/)
 - [Kyverno: The Swiss Army Knife of Kubernetes](https://neonmirrors.net/post/2021-01/kyverno-the-swiss-army-knife-of-kubernetes/)
 - [How to Ask for Help on Slack](https://neonmirrors.net/post/2020-12/how-to-ask-for-help-on-slack/)
 - [Exploring Kyverno: Part 3, Generation](https://neonmirrors.net/post/2020-12/exploring-kyverno-part3/)
-- [Exploring Kyverno: Part 2, Mutation](https://neonmirrors.net/post/2020-12/exploring-kyverno-part2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
