@@ -26,7 +26,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Pod Security Admission versus Kyverno](https://neonmirrors.net/post/2022-06/pod-security-admission-versus-kyverno/)
+- [Examining Pod Security Admission](https://neonmirrors.net/post/2022-06/examining-pod-security/)
 - [Harbor, Cosign, and Kyverno](https://neonmirrors.net/post/2022-05/harbor-cosign-and-kyverno/)
 - [Policy for Kubernetes Custom Resources](https://neonmirrors.net/post/2021-06/policy-k8s-customresources/)
 - [Kubernetes Policy Comparison: OPA/Gatekeeper vs Kyverno](https://neonmirrors.net/post/2021-02/kubernetes-policy-comparison-opa-gatekeeper-vs-kyverno/)
