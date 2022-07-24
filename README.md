@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
 - [Examining Pod Security Admission](https://neonmirrors.net/post/2022-06/examining-pod-security/)
 - [Harbor, Cosign, and Kyverno](https://neonmirrors.net/post/2022-05/harbor-cosign-and-kyverno/)
 - [Policy for Kubernetes Custom Resources](https://neonmirrors.net/post/2021-06/policy-k8s-customresources/)
 - [Kubernetes Policy Comparison: OPA/Gatekeeper vs Kyverno](https://neonmirrors.net/post/2021-02/kubernetes-policy-comparison-opa-gatekeeper-vs-kyverno/)
-- [Kyverno: The Swiss Army Knife of Kubernetes](https://neonmirrors.net/post/2021-01/kyverno-the-swiss-army-knife-of-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
