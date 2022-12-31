@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reducing Pod Volume Update Times](https://neonmirrors.net/post/2022-12/reducing-pod-volume-update-times/)
 - [KubeCon 2022 Retrospective](https://neonmirrors.net/post/2022-11/kubecon_retrospective/)
 - [Reloading Secrets and ConfigMaps with Kyverno](https://neonmirrors.net/post/2022-09/reloading-secrets-and-configmaps-with-kyverno/)
 - [Attesting Image Scans With Kyverno](https://neonmirrors.net/post/2022-07/attesting-image-scans-kyverno/)
 - [Examining Pod Security Admission](https://neonmirrors.net/post/2022-06/examining-pod-security/)
-- [Harbor, Cosign, and Kyverno](https://neonmirrors.net/post/2022-05/harbor-cosign-and-kyverno/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
