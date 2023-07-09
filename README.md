@@ -26,11 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scheduled Mutations with Kyverno](https://neonmirrors.net/post/2023-07/scheduled-kyverno-mutations/)
 - [One-Time Pass Codes for Kyverno](https://neonmirrors.net/post/2023-06/one-time-pass-codes-for-kyverno/)
 - [Signing and Automating Policy Exceptions](https://neonmirrors.net/post/2023-03/signing-and-automating-policy-exceptions/)
 - [Preserving Authorship in a GitOps World with Kyverno](https://neonmirrors.net/post/2023-03/preserving-authorship-in-a-gitops-world-with-kyverno/)
 - [Temporary Policy Exceptions with Kyverno](https://neonmirrors.net/post/2023-02/policy-exception-expiration/)
-- [Reducing Pod Volume Update Times](https://neonmirrors.net/post/2022-12/reducing-pod-volume-update-times/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
