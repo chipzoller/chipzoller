@@ -33,6 +33,8 @@
 - [Signing and Automating Policy Exceptions](https://neonmirrors.net/post/2023-03/signing-and-automating-policy-exceptions/)
 <!-- BLOG-POST-LIST:END -->
 
+Check out some images [here](/images).
+
 ---
 
 [website]: https://neonmirrors.net
